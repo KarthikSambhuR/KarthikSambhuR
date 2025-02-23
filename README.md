@@ -1,5 +1,5 @@
 ## Hi, I'm Karthik Sambhu R
-![](./README.webp)
+[![README](./README.webp)](https://sambhudev.pages.dev)
 
 ## Below is the technology stack that I enjoy working with.
 <table>

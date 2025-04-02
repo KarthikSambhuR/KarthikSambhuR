@@ -143,5 +143,4 @@
 
 ## Stats
 ![KarthikSambhuR's Stats](https://github-readme-stats.vercel.app/api?username=KarthikSambhuR&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![KarthikSambhuR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarthikSambhuR&theme=gotham&hide_border=true)
 ![KarthikSambhuR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSambhuR&theme=gotham&show_icons=true&hide_border=true&layout=compact)

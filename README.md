@@ -142,6 +142,7 @@
   </tr>
 </table>
 
-## Stats
-![KarthikSambhuR's Stats](https://github-readme-stats.vercel.app/api?username=KarthikSambhuR&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![KarthikSambhuR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSambhuR&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+ <br/><br/>
+ <img src="https://komarev.com/ghpvc/?username=karthiksambhur&style=flat-square&label=PROFILE+VIEWS&color=00BFFF" alt="Profile Views" />
+</div>

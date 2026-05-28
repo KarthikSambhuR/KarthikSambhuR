@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://karthiksambhur.pages.dev"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/karthiksambhur"><b>LinkedIn</b></a> •
-  <a href="https://twitter.com/karthiksambhur"><b>Twitter</b></a>
+  <a href="https://linkedin.com/in/karthiksambhur"><b>LinkedIn</b></a>
 </p>
 
 ---

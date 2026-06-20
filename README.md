@@ -1,8 +1,8 @@
 # <p align="center">Hi there, I'm Karthik Sambhu R! 👋</p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./README.png" alt="Karthik Sambhu R Banner" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://karthiksambhur.pages.dev"><b>Portfolio</b></a> •
